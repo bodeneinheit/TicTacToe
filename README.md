@@ -8,6 +8,8 @@ A simple web-based TicTacToe Game using server authorative communication
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Credits](#credits)
+- [ToDo](#todo)
 - [License](#license)
 
 ## Introduction
@@ -58,6 +60,14 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Commit your changes: git commit -m 'Add a new feature'.
 4. Push to your branch: git push origin feature/new-feature.
 5. Open a pull request.
+
+## Credits
+Styling partly adapted from https://github.com/CodeHawk1/TicTacToe
+
+## ToDo
+- fix UI bugs
+- more userfriendly information when waiting for other players
+- live website
 
 ## License
 
