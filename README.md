@@ -65,9 +65,10 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Styling partly adapted from https://github.com/CodeHawk1/TicTacToe
 
 ## ToDo
-- fix UI bugs
-- more userfriendly information when waiting for other players
-- live website
+- Fix UI bugs
+- More userfriendly information while waiting for other player
+- Highlight winning cells
+- Live website
 
 ## License
 
